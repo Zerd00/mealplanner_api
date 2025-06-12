@@ -6,253 +6,15 @@
       "mealTypes": {
         "breakfast": [
           {
-            "recipeId": 299,
-            "name": "Φρυγανιές με ταχίνι και μέλι",
-            "mainIngredient": "φρυγανιές",
-            "servings": 1,
-            "nutrition": {
-              "calories": 159.1,
-              "carbs": 30.84,
-              "protein": 2.98,
-              "fats": 3.06
-            }
-          },
-          {
-            "recipeId": 145,
-            "name": "Κρεμμυδόπιτα",
-            "mainIngredient": "κρεμμυδόπιτα",
-            "servings": 2,
-            "nutrition": {
-              "calories": 269.22,
-              "carbs": 27.26,
-              "protein": 9.9,
-              "fats": 13.25
-            }
-          }
-        ],
-        "midMorningSnack": [
-          {
-            "recipeId": 232,
-            "name": "Παγωτό με καρπούζι, μπανάνα και μέλι",
-            "mainIngredient": "παγωτό",
-            "servings": 1,
-            "nutrition": {
-              "calories": 146.05,
-              "carbs": 37.79,
-              "protein": 1.77,
-              "fats": 0.48
-            }
-          },
-          {
-            "recipeId": 598,
-            "name": "Ομελέτα φούρνου",
-            "mainIngredient": "ομελέτα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 105.98,
-              "carbs": 7.14,
-              "protein": 16.01,
-              "fats": 12.55
-            }
-          }
-        ],
-        "lunch": [
-          {
-            "recipeId": 184,
-            "name": "Σαλάτα με φαγόπυρο και ψητά θαλασσινά",
-            "mainIngredient": "σαλάτα",
-            "servings": 2,
-            "nutrition": {
-              "calories": 863.24,
-              "carbs": 94.78,
-              "protein": 37.23,
-              "fats": 36.55
-            }
-          }
-        ],
-        "afternoonSnack": [
-          {
-            "recipeId": 231,
-            "name": "Παγωτό με φράουλα και μπανάνα",
-            "mainIngredient": "παγωτό",
-            "servings": 1,
-            "nutrition": {
-              "calories": 129.09,
-              "carbs": 31.47,
-              "protein": 2.72,
-              "fats": 0.47
-            }
-          },
-          {
             "recipeId": 246,
             "name": "Pancakes χωρίς ζάχαρη",
             "mainIngredient": "pancakes",
-            "servings": 1,
+            "servings": 3,
             "nutrition": {
-              "calories": 108.22,
-              "carbs": 17.24,
-              "protein": 2.86,
-              "fats": 2.56
-            }
-          }
-        ],
-        "dinner": [
-          {
-            "recipeId": 154,
-            "name": "Πιπεριές χρωματιστές γεμιστές με τόνο και κινόα",
-            "mainIngredient": "πιπεριές",
-            "servings": 1,
-            "nutrition": {
-              "calories": 509.72,
-              "carbs": 40.08,
-              "protein": 50.35,
-              "fats": 16.83
-            }
-          }
-        ]
-      },
-      "dailyTotals": {
-        "calories": 2290.62,
-        "carbs": 286.58,
-        "protein": 123.81,
-        "fats": 85.75,
-        "calorieDeviation": 90.62
-      }
-    },
-    {
-      "day": "TUESDAY",
-      "mealTypes": {
-        "breakfast": [
-          {
-            "recipeId": 138,
-            "name": "Πικάντικες φτερούγες κοτόπουλο",
-            "mainIngredient": "πικάντικες",
-            "servings": 1,
-            "nutrition": {
-              "calories": 440.45,
-              "carbs": 11.26,
-              "protein": 59.9,
-              "fats": 14.08
-            }
-          }
-        ],
-        "midMorningSnack": [
-          {
-            "recipeId": 251,
-            "name": "Αυγά μάτια",
-            "mainIngredient": "αυγά",
-            "servings": 1,
-            "nutrition": {
-              "calories": 177.28,
-              "carbs": 1.73,
-              "protein": 11.62,
-              "fats": 13.89
-            }
-          },
-          {
-            "recipeId": 277,
-            "name": "Μπαλίτσες ενέργειας",
-            "mainIngredient": "μπαλίτσες",
-            "servings": 1,
-            "nutrition": {
-              "calories": 45.97,
-              "carbs": 9.0,
-              "protein": 0.57,
-              "fats": 0.94
-            }
-          }
-        ],
-        "lunch": [
-          {
-            "recipeId": 34,
-            "name": "Ομελέτα",
-            "mainIngredient": "ομελέτα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 329.99,
-              "carbs": 3.25,
-              "protein": 16.56,
-              "fats": 28.43
-            }
-          },
-          {
-            "recipeId": 207,
-            "name": "Μακαρόνια με pesto παντζαριού",
-            "mainIngredient": "μακαρόνια",
-            "servings": 1,
-            "nutrition": {
-              "calories": 478.65,
-              "carbs": 45.05,
-              "protein": 14.35,
-              "fats": 24.29
-            }
-          }
-        ],
-        "afternoonSnack": [
-          {
-            "recipeId": 636,
-            "name": "Σουφλέ σοκολάτας Κετο",
-            "mainIngredient": "σουφλέ",
-            "servings": 2,
-            "nutrition": {
-              "calories": 194.05,
-              "carbs": 0.88,
-              "protein": 12.68,
-              "fats": 12.55
-            }
-          }
-        ],
-        "dinner": [
-          {
-            "recipeId": 187,
-            "name": "Χοιρινό με πράσο",
-            "mainIngredient": "χοιρινό",
-            "servings": 1,
-            "nutrition": {
-              "calories": 530.86,
-              "carbs": 16.76,
-              "protein": 32.75,
-              "fats": 36.76
-            }
-          }
-        ]
-      },
-      "dailyTotals": {
-        "calories": 2197.25,
-        "carbs": 87.93,
-        "protein": 148.43,
-        "fats": 130.93,
-        "calorieDeviation": 2.75
-      }
-    },
-    {
-      "day": "WEDNESDAY",
-      "mealTypes": {
-        "breakfast": [
-          {
-            "recipeId": 271,
-            "name": "Μουσταλευριά",
-            "mainIngredient": "μουσταλευριά",
-            "servings": 2,
-            "nutrition": {
-              "calories": 487.55,
-              "carbs": 93.33,
-              "protein": 5.4,
-              "fats": 6.19
-            }
-          }
-        ],
-        "midMorningSnack": [
-          {
-            "recipeId": 235,
-            "name": "Σορμπέ φράουλας χωρίς ζάχαρη",
-            "mainIngredient": "σορμπέ",
-            "servings": 1,
-            "nutrition": {
-              "calories": 138.3,
-              "carbs": 34.71,
-              "protein": 1.59,
-              "fats": 0.69
+              "calories": 324.65,
+              "carbs": 51.72,
+              "protein": 8.57,
+              "fats": 7.68
             }
           },
           {
@@ -268,229 +30,47 @@
             }
           }
         ],
+        "midMorningSnack": [
+          {
+            "recipeId": 233,
+            "name": "Παγωτό με πεπόνι και μπανάνα",
+            "mainIngredient": "παγωτό",
+            "servings": 1,
+            "nutrition": {
+              "calories": 212.0,
+              "carbs": 54.2,
+              "protein": 3.0,
+              "fats": 0.8
+            }
+          }
+        ],
         "lunch": [
+          {
+            "recipeId": 7,
+            "name": "Φάβα",
+            "mainIngredient": "φάβα",
+            "servings": 2,
+            "nutrition": {
+              "calories": 1139.21,
+              "carbs": 166.3,
+              "protein": 35.41,
+              "fats": 30.9
+            }
+          },
           {
             "recipeId": 20,
             "name": "Σπανακοτυρόπιτα",
             "mainIngredient": "σπανακοτυρόπιτα",
-            "servings": 3,
+            "servings": 1,
             "nutrition": {
-              "calories": 635.86,
-              "carbs": 57.13,
-              "protein": 26.0,
-              "fats": 33.05
-            }
-          },
-          {
-            "recipeId": 43,
-            "name": "Κολοκυθόπιτα αλμυρή ",
-            "mainIngredient": "κολοκυθόπιτα",
-            "servings": 3,
-            "nutrition": {
-              "calories": 248.85,
-              "carbs": 24.19,
-              "protein": 12.91,
-              "fats": 11.05
+              "calories": 211.95,
+              "carbs": 19.04,
+              "protein": 8.67,
+              "fats": 11.02
             }
           }
         ],
         "afternoonSnack": [
-          {
-            "recipeId": 108,
-            "name": "Πίτσα στο ταψί",
-            "mainIngredient": "πίτσα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 240.0,
-              "carbs": 30.57,
-              "protein": 11.24,
-              "fats": 5.89
-            }
-          }
-        ],
-        "dinner": [
-          {
-            "recipeId": 83,
-            "name": "Ντολμαδάκια με κιμά",
-            "mainIngredient": "ντολμαδάκια",
-            "servings": 3,
-            "nutrition": {
-              "calories": 155.3,
-              "carbs": 14.3,
-              "protein": 8.84,
-              "fats": 6.97
-            }
-          },
-          {
-            "recipeId": 226,
-            "name": "Σαλάτα του σεφ",
-            "mainIngredient": "σαλάτα",
-            "servings": 2,
-            "nutrition": {
-              "calories": 323.38,
-              "carbs": 10.49,
-              "protein": 8.18,
-              "fats": 27.94
-            }
-          }
-        ]
-      },
-      "dailyTotals": {
-        "calories": 2328.87,
-        "carbs": 268.02,
-        "protein": 74.9,
-        "fats": 99.09,
-        "calorieDeviation": 128.87
-      }
-    },
-    {
-      "day": "THURSDAY",
-      "mealTypes": {
-        "breakfast": [
-          {
-            "recipeId": 293,
-            "name": "Τοστ με ψωμί σταρένιο",
-            "mainIngredient": "τοστ",
-            "servings": 1,
-            "nutrition": {
-              "calories": 272.2,
-              "carbs": 39.54,
-              "protein": 19.3,
-              "fats": 5.66
-            }
-          },
-          {
-            "recipeId": 252,
-            "name": "Τοστ",
-            "mainIngredient": "τοστ",
-            "servings": 1,
-            "nutrition": {
-              "calories": 166.8,
-              "carbs": 24.3,
-              "protein": 9.48,
-              "fats": 2.76
-            }
-          }
-        ],
-        "midMorningSnack": [
-          {
-            "recipeId": 595,
-            "name": "Ρολάκια κανέλας",
-            "mainIngredient": "ρολάκια",
-            "servings": 1,
-            "nutrition": {
-              "calories": 234.12,
-              "carbs": 46.25,
-              "protein": 5.43,
-              "fats": 2.08
-            }
-          }
-        ],
-        "lunch": [
-          {
-            "recipeId": 204,
-            "name": "Φαλάφελ στο φούρνο",
-            "mainIngredient": "φαλάφελ",
-            "servings": 1,
-            "nutrition": {
-              "calories": 589.97,
-              "carbs": 77.9,
-              "protein": 11.12,
-              "fats": 0.87
-            }
-          },
-          {
-            "recipeId": 116,
-            "name": "Φιλέτο σολομού με λαδολέμονο",
-            "mainIngredient": "φιλέτο",
-            "servings": 1,
-            "nutrition": {
-              "calories": 216.13,
-              "carbs": 16.95,
-              "protein": 15.16,
-              "fats": 8.86
-            }
-          }
-        ],
-        "afternoonSnack": [
-          {
-            "recipeId": 133,
-            "name": "Κρέμα καραμελέ",
-            "mainIngredient": "κρέμα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 201.77,
-              "carbs": 39.83,
-              "protein": 8.87,
-              "fats": 0.77
-            }
-          }
-        ],
-        "dinner": [
-          {
-            "recipeId": 47,
-            "name": "Ψαρόσουπα με ρύζι",
-            "mainIngredient": "ψαρόσουπα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 441.72,
-              "carbs": 42.89,
-              "protein": 50.52,
-              "fats": 7.1
-            }
-          },
-          {
-            "recipeId": 217,
-            "name": "Σπιτικά σνίτσελ κοτόπουλο",
-            "mainIngredient": "σπιτικά",
-            "servings": 1,
-            "nutrition": {
-              "calories": 177.12,
-              "carbs": 4.83,
-              "protein": 28.75,
-              "fats": 3.92
-            }
-          }
-        ]
-      },
-      "dailyTotals": {
-        "calories": 2299.83,
-        "carbs": 292.49,
-        "protein": 148.61,
-        "fats": 32.02,
-        "calorieDeviation": 99.83
-      }
-    },
-    {
-      "day": "FRIDAY",
-      "mealTypes": {
-        "breakfast": [
-          {
-            "recipeId": 242,
-            "name": "Smoothie με διάφορα φρούτα",
-            "mainIngredient": "smoothie",
-            "servings": 1,
-            "nutrition": {
-              "calories": 323.2,
-              "carbs": 81.17,
-              "protein": 5.44,
-              "fats": 1.29
-            }
-          },
-          {
-            "recipeId": 247,
-            "name": "Αλμυρά μάφιν με καρότο, κολοκύθι και φέτα",
-            "mainIngredient": "αλμυρά",
-            "servings": 2,
-            "nutrition": {
-              "calories": 181.61,
-              "carbs": 17.77,
-              "protein": 7.39,
-              "fats": 9.38
-            }
-          }
-        ],
-        "midMorningSnack": [
           {
             "recipeId": 211,
             "name": "Γλυκό ψυγείου με πορτοκάλι",
@@ -504,43 +84,317 @@
             }
           }
         ],
-        "lunch": [
+        "dinner": [
           {
-            "recipeId": 588,
-            "name": "Πίτα με κεμπάπ",
-            "mainIngredient": "πίτα",
+            "recipeId": 245,
+            "name": "Ομελέτα σε αραβική πίτα",
+            "mainIngredient": "ομελέτα",
             "servings": 1,
             "nutrition": {
-              "calories": 591.4,
-              "carbs": 68.16,
-              "protein": 24.59,
-              "fats": 20.02
+              "calories": 571.41,
+              "carbs": 39.32,
+              "protein": 24.68,
+              "fats": 34.75
+            }
+          }
+        ]
+      },
+      "dailyTotals": {
+        "calories": 2766.15,
+        "carbs": 375.46,
+        "protein": 87.13,
+        "fats": 93.67,
+        "calorieDeviation": 566.15
+      }
+    },
+    {
+      "day": "TUESDAY",
+      "mealTypes": {
+        "breakfast": [
+          {
+            "recipeId": 265,
+            "name": "Smoothie με μήλο, πορτοκάλι, μπανάνα και γάλα",
+            "mainIngredient": "smoothie",
+            "servings": 1,
+            "nutrition": {
+              "calories": 313.2,
+              "carbs": 73.12,
+              "protein": 9.18,
+              "fats": 1.46
             }
           },
           {
-            "recipeId": 195,
-            "name": "Ριζότο θαλασσινών",
-            "mainIngredient": "ριζότο",
+            "recipeId": 598,
+            "name": "Ομελέτα φούρνου",
+            "mainIngredient": "ομελέτα",
             "servings": 1,
             "nutrition": {
-              "calories": 205.98,
-              "carbs": 20.43,
-              "protein": 11.44,
-              "fats": 6.51
+              "calories": 105.98,
+              "carbs": 7.14,
+              "protein": 16.01,
+              "fats": 12.55
+            }
+          }
+        ],
+        "midMorningSnack": [
+          {
+            "recipeId": 289,
+            "name": "Lemon pie σε ποτήρι",
+            "mainIngredient": "lemon",
+            "servings": 1,
+            "nutrition": {
+              "calories": 199.98,
+              "carbs": 17.66,
+              "protein": 12.65,
+              "fats": 9.14
+            }
+          }
+        ],
+        "lunch": [
+          {
+            "recipeId": 630,
+            "name": "Σαλάτα με βραστό κολοκύθι και παντζάρι",
+            "mainIngredient": "σαλάτα",
+            "servings": 1,
+            "nutrition": {
+              "calories": 245.09,
+              "carbs": 28.42,
+              "protein": 5.49,
+              "fats": 14.65
+            }
+          },
+          {
+            "recipeId": 140,
+            "name": "Ρολάκια μελιτζάνας με φέτα",
+            "mainIngredient": "ρολάκια",
+            "servings": 2,
+            "nutrition": {
+              "calories": 443.9,
+              "carbs": 70.7,
+              "protein": 25.87,
+              "fats": 11.29
             }
           }
         ],
         "afternoonSnack": [
           {
-            "recipeId": 135,
-            "name": "Τυροκροκέτες",
-            "mainIngredient": "τυροκροκέτες",
+            "recipeId": 296,
+            "name": "Τοστ με ψωμί χωριάτικο",
+            "mainIngredient": "τοστ",
             "servings": 1,
             "nutrition": {
-              "calories": 145.68,
-              "carbs": 2.75,
-              "protein": 11.14,
-              "fats": 9.86
+              "calories": 147.58,
+              "carbs": 9.86,
+              "protein": 10.61,
+              "fats": 7.06
+            }
+          },
+          {
+            "recipeId": 636,
+            "name": "Σουφλέ σοκολάτας Κετο",
+            "mainIngredient": "σουφλέ",
+            "servings": 1,
+            "nutrition": {
+              "calories": 97.02,
+              "carbs": 0.44,
+              "protein": 6.34,
+              "fats": 6.28
+            }
+          }
+        ],
+        "dinner": [
+          {
+            "recipeId": 641,
+            "name": "Καλαμάρι γεμιστό με σπανάκι",
+            "mainIngredient": "καλαμάρι",
+            "servings": 1,
+            "nutrition": {
+              "calories": 342.62,
+              "carbs": 8.39,
+              "protein": 37.37,
+              "fats": 18.38
+            }
+          },
+          {
+            "recipeId": 186,
+            "name": "Σαλάτα ρόκα με αχλάδι",
+            "mainIngredient": "σαλάτα",
+            "servings": 2,
+            "nutrition": {
+              "calories": 151.32,
+              "carbs": 30.31,
+              "protein": 1.74,
+              "fats": 3.34
+            }
+          }
+        ]
+      },
+      "dailyTotals": {
+        "calories": 2046.69,
+        "carbs": 246.04,
+        "protein": 125.27,
+        "fats": 84.15,
+        "calorieDeviation": 153.31
+      }
+    },
+    {
+      "day": "WEDNESDAY",
+      "mealTypes": {
+        "breakfast": [
+          {
+            "recipeId": 239,
+            "name": "Smoothie με σταφύλι και φράουλα",
+            "mainIngredient": "smoothie",
+            "servings": 2,
+            "nutrition": {
+              "calories": 336.74,
+              "carbs": 62.39,
+              "protein": 12.61,
+              "fats": 4.33
+            }
+          },
+          {
+            "recipeId": 43,
+            "name": "Κολοκυθόπιτα αλμυρή ",
+            "mainIngredient": "κολοκυθόπιτα",
+            "servings": 2,
+            "nutrition": {
+              "calories": 165.9,
+              "carbs": 16.12,
+              "protein": 8.61,
+              "fats": 7.37
+            }
+          }
+        ],
+        "midMorningSnack": [
+          {
+            "recipeId": 108,
+            "name": "Πίτσα στο ταψί",
+            "mainIngredient": "πίτσα",
+            "servings": 1,
+            "nutrition": {
+              "calories": 240.0,
+              "carbs": 30.57,
+              "protein": 11.24,
+              "fats": 5.89
+            }
+          }
+        ],
+        "lunch": [
+          {
+            "recipeId": 645,
+            "name": "Κέτο pancakes",
+            "mainIngredient": "κέτο",
+            "servings": 1,
+            "nutrition": {
+              "calories": 355.82,
+              "carbs": 5.88,
+              "protein": 18.41,
+              "fats": 29.0
+            }
+          },
+          {
+            "recipeId": 11,
+            "name": "Σπανακόρυζο",
+            "mainIngredient": "σπανακόρυζο",
+            "servings": 2,
+            "nutrition": {
+              "calories": 468.4,
+              "carbs": 91.82,
+              "protein": 24.72,
+              "fats": 2.94
+            }
+          }
+        ],
+        "afternoonSnack": [
+          {
+            "recipeId": 605,
+            "name": "Αυγά ποσέ",
+            "mainIngredient": "αυγά",
+            "servings": 1,
+            "nutrition": {
+              "calories": 69.0,
+              "carbs": 1.05,
+              "protein": 18.9,
+              "fats": 15.0
+            }
+          },
+          {
+            "recipeId": 244,
+            "name": "Μάφιν βρώμης",
+            "mainIngredient": "μάφιν",
+            "servings": 1,
+            "nutrition": {
+              "calories": 141.78,
+              "carbs": 25.47,
+              "protein": 3.51,
+              "fats": 3.18
+            }
+          }
+        ],
+        "dinner": [
+          {
+            "recipeId": 589,
+            "name": "Ψητά λαχανικά με φέτα και ρίγανη",
+            "mainIngredient": "ψητά",
+            "servings": 3,
+            "nutrition": {
+              "calories": 555.58,
+              "carbs": 50.64,
+              "protein": 20.1,
+              "fats": 33.79
+            }
+          }
+        ]
+      },
+      "dailyTotals": {
+        "calories": 2333.23,
+        "carbs": 283.95,
+        "protein": 118.12,
+        "fats": 101.5,
+        "calorieDeviation": 133.23
+      }
+    },
+    {
+      "day": "THURSDAY",
+      "mealTypes": {
+        "breakfast": [
+          {
+            "recipeId": 262,
+            "name": "Τορτίγια με κοτόπουλο, τομάτα και τυρί κρέμα",
+            "mainIngredient": "τορτίγια",
+            "servings": 1,
+            "nutrition": {
+              "calories": 332.74,
+              "carbs": 32.17,
+              "protein": 11.36,
+              "fats": 17.27
+            }
+          },
+          {
+            "recipeId": 277,
+            "name": "Μπαλίτσες ενέργειας",
+            "mainIngredient": "μπαλίτσες",
+            "servings": 3,
+            "nutrition": {
+              "calories": 137.9,
+              "carbs": 26.99,
+              "protein": 1.7,
+              "fats": 2.81
+            }
+          }
+        ],
+        "midMorningSnack": [
+          {
+            "recipeId": 252,
+            "name": "Τοστ",
+            "mainIngredient": "τοστ",
+            "servings": 1,
+            "nutrition": {
+              "calories": 166.8,
+              "carbs": 24.3,
+              "protein": 9.48,
+              "fats": 2.76
             }
           },
           {
@@ -556,237 +410,17 @@
             }
           }
         ],
-        "dinner": [
-          {
-            "recipeId": 66,
-            "name": "Μακαρόνια με κόκκινη σάλτσα",
-            "mainIngredient": "μακαρόνια",
-            "servings": 1,
-            "nutrition": {
-              "calories": 468.33,
-              "carbs": 103.12,
-              "protein": 12.2,
-              "fats": 2.03
-            }
-          }
-        ]
-      },
-      "dailyTotals": {
-        "calories": 2203.49,
-        "carbs": 346.43,
-        "protein": 79.61,
-        "fats": 53.83,
-        "calorieDeviation": 3.49
-      }
-    },
-    {
-      "day": "SATURDAY",
-      "mealTypes": {
-        "breakfast": [
-          {
-            "recipeId": 275,
-            "name": "Γαλατόπιτα",
-            "mainIngredient": "γαλατόπιτα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 272.68,
-              "carbs": 43.79,
-              "protein": 6.38,
-              "fats": 7.94
-            }
-          },
-          {
-            "recipeId": 238,
-            "name": "Smoothie με καρπούζι και γιαούρτι",
-            "mainIngredient": "smoothie",
-            "servings": 1,
-            "nutrition": {
-              "calories": 217.38,
-              "carbs": 46.77,
-              "protein": 1.09,
-              "fats": 2.66
-            }
-          }
-        ],
-        "midMorningSnack": [
-          {
-            "recipeId": 272,
-            "name": "Καρυδόπιτα",
-            "mainIngredient": "καρυδόπιτα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 148.04,
-              "carbs": 33.38,
-              "protein": 1.13,
-              "fats": 1.37
-            }
-          },
-          {
-            "recipeId": 605,
-            "name": "Αυγά ποσέ",
-            "mainIngredient": "αυγά",
-            "servings": 1,
-            "nutrition": {
-              "calories": 69.0,
-              "carbs": 1.05,
-              "protein": 18.9,
-              "fats": 15.0
-            }
-          }
-        ],
         "lunch": [
           {
-            "recipeId": 641,
-            "name": "Καλαμάρι γεμιστό με σπανάκι",
-            "mainIngredient": "καλαμάρι",
+            "recipeId": 218,
+            "name": "Ντομάτες γεμιστές με καγιανά και τυριά",
+            "mainIngredient": "ντομάτες",
             "servings": 1,
             "nutrition": {
-              "calories": 342.62,
-              "carbs": 8.39,
-              "protein": 37.37,
-              "fats": 18.38
-            }
-          },
-          {
-            "recipeId": 221,
-            "name": "Λαχανικά στον ατμό με σως",
-            "mainIngredient": "λαχανικά",
-            "servings": 2,
-            "nutrition": {
-              "calories": 281.52,
-              "carbs": 41.13,
-              "protein": 15.13,
-              "fats": 5.53
-            }
-          },
-          {
-            "recipeId": 649,
-            "name": "Ψητά λαχανικά",
-            "mainIngredient": "ψητά",
-            "servings": 1,
-            "nutrition": {
-              "calories": 222.37,
-              "carbs": 22.65,
-              "protein": 4.04,
-              "fats": 14.62
-            }
-          }
-        ],
-        "afternoonSnack": [
-          {
-            "recipeId": 279,
-            "name": "Γλυκό ψυγείου με γιαούρτι",
-            "mainIngredient": "γλυκό",
-            "servings": 1,
-            "nutrition": {
-              "calories": 186.86,
-              "carbs": 25.62,
-              "protein": 3.16,
-              "fats": 7.82
-            }
-          },
-          {
-            "recipeId": 23,
-            "name": "Μελιτζανοσαλάτα",
-            "mainIngredient": "μελιτζανοσαλάτα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 45.02,
-              "carbs": 8.41,
-              "protein": 1.49,
-              "fats": 1.26
-            }
-          }
-        ],
-        "dinner": [
-          {
-            "recipeId": 87,
-            "name": "Ανάμεικτα λαχανικά στο φούρνο",
-            "mainIngredient": "ανάμεικτα",
-            "servings": 3,
-            "nutrition": {
-              "calories": 610.38,
-              "carbs": 128.59,
-              "protein": 20.78,
-              "fats": 7.94
-            }
-          }
-        ]
-      },
-      "dailyTotals": {
-        "calories": 2395.87,
-        "carbs": 359.78,
-        "protein": 109.47,
-        "fats": 82.51,
-        "calorieDeviation": 195.87
-      }
-    },
-    {
-      "day": "SUNDAY",
-      "mealTypes": {
-        "breakfast": [
-          {
-            "recipeId": 38,
-            "name": "Τυρόπιτα",
-            "mainIngredient": "τυρόπιτα",
-            "servings": 1,
-            "nutrition": {
-              "calories": 273.75,
-              "carbs": 27.59,
-              "protein": 12.24,
-              "fats": 12.93
-            }
-          },
-          {
-            "recipeId": 597,
-            "name": "Μπάρες Δημητριακών",
-            "mainIngredient": "μπάρες",
-            "servings": 2,
-            "nutrition": {
-              "calories": 223.19,
-              "carbs": 38.21,
-              "protein": 4.41,
-              "fats": 6.17
-            }
-          }
-        ],
-        "midMorningSnack": [
-          {
-            "recipeId": 286,
-            "name": "Ψωμί σπιτικό",
-            "mainIngredient": "ψωμί",
-            "servings": 1,
-            "nutrition": {
-              "calories": 157.81,
-              "carbs": 31.52,
-              "protein": 5.13,
-              "fats": 0.97
-            }
-          }
-        ],
-        "lunch": [
-          {
-            "recipeId": 644,
-            "name": "Κέτο σουφλέ τυριού",
-            "mainIngredient": "κέτο",
-            "servings": 2,
-            "nutrition": {
-              "calories": 619.1,
-              "carbs": 10.61,
-              "protein": 33.45,
-              "fats": 47.1
-            }
-          },
-          {
-            "recipeId": 182,
-            "name": "Λαβράκι στο φούρνο",
-            "mainIngredient": "λαβράκι",
-            "servings": 1,
-            "nutrition": {
-              "calories": 257.99,
-              "carbs": 3.32,
-              "protein": 29.49,
-              "fats": 6.75
+              "calories": 673.83,
+              "carbs": 13.68,
+              "protein": 23.1,
+              "fats": 44.93
             }
           }
         ],
@@ -806,25 +440,367 @@
         ],
         "dinner": [
           {
-            "recipeId": 85,
-            "name": "Φασολάκια πράσινα λαδερά",
-            "mainIngredient": "φασολάκια",
-            "servings": 2,
+            "recipeId": 624,
+            "name": "Γεμιστές πιπεριές",
+            "mainIngredient": "γεμιστές",
+            "servings": 1,
             "nutrition": {
-              "calories": 551.02,
-              "carbs": 60.59,
-              "protein": 28.14,
-              "fats": 22.66
+              "calories": 282.44,
+              "carbs": 38.01,
+              "protein": 4.54,
+              "fats": 13.95
+            }
+          },
+          {
+            "recipeId": 79,
+            "name": "Μανιτάρια στιφάδο",
+            "mainIngredient": "μανιτάρια",
+            "servings": 1,
+            "nutrition": {
+              "calories": 230.62,
+              "carbs": 33.09,
+              "protein": 9.71,
+              "fats": 5.12
             }
           }
         ]
       },
       "dailyTotals": {
-        "calories": 2284.98,
-        "carbs": 174.39,
-        "protein": 113.43,
-        "fats": 108.22,
-        "calorieDeviation": 84.98
+        "calories": 2106.46,
+        "carbs": 182.26,
+        "protein": 61.8,
+        "fats": 102.01,
+        "calorieDeviation": 93.54
+      }
+    },
+    {
+      "day": "FRIDAY",
+      "mealTypes": {
+        "breakfast": [
+          {
+            "recipeId": 257,
+            "name": "Πίτσα Πρωτεϊνης",
+            "mainIngredient": "πίτσα",
+            "servings": 1,
+            "nutrition": {
+              "calories": 339.31,
+              "carbs": 3.28,
+              "protein": 28.38,
+              "fats": 22.98
+            }
+          },
+          {
+            "recipeId": 132,
+            "name": "Κρέπες με σοκολάτα",
+            "mainIngredient": "κρέπες",
+            "servings": 1,
+            "nutrition": {
+              "calories": 132.59,
+              "carbs": 20.12,
+              "protein": 6.04,
+              "fats": 3.16
+            }
+          }
+        ],
+        "midMorningSnack": [
+          {
+            "recipeId": 286,
+            "name": "Ψωμί σπιτικό",
+            "mainIngredient": "ψωμί",
+            "servings": 1,
+            "nutrition": {
+              "calories": 157.81,
+              "carbs": 31.52,
+              "protein": 5.13,
+              "fats": 0.97
+            }
+          },
+          {
+            "recipeId": 247,
+            "name": "Αλμυρά μάφιν με καρότο, κολοκύθι και φέτα",
+            "mainIngredient": "αλμυρά",
+            "servings": 1,
+            "nutrition": {
+              "calories": 90.8,
+              "carbs": 8.89,
+              "protein": 3.69,
+              "fats": 4.69
+            }
+          }
+        ],
+        "lunch": [
+          {
+            "recipeId": 180,
+            "name": "Τσιπούρα με τομάτα και κρεμμύδι στο φούρνο",
+            "mainIngredient": "τσιπούρα",
+            "servings": 2,
+            "nutrition": {
+              "calories": 337.57,
+              "carbs": 30.89,
+              "protein": 42.97,
+              "fats": 6.19
+            }
+          },
+          {
+            "recipeId": 188,
+            "name": "Μακαρόνια με μύδια",
+            "mainIngredient": "μακαρόνια",
+            "servings": 1,
+            "nutrition": {
+              "calories": 295.99,
+              "carbs": 21.13,
+              "protein": 12.94,
+              "fats": 14.65
+            }
+          },
+          {
+            "recipeId": 164,
+            "name": "Μελιτζάνες τηγανητές με σάλτσα",
+            "mainIngredient": "μελιτζάνες",
+            "servings": 1,
+            "nutrition": {
+              "calories": 141.88,
+              "carbs": 28.8,
+              "protein": 5.23,
+              "fats": 2.99
+            }
+          }
+        ],
+        "afternoonSnack": [
+          {
+            "recipeId": 595,
+            "name": "Ρολάκια κανέλας",
+            "mainIngredient": "ρολάκια",
+            "servings": 1,
+            "nutrition": {
+              "calories": 234.12,
+              "carbs": 46.25,
+              "protein": 5.43,
+              "fats": 2.08
+            }
+          }
+        ],
+        "dinner": [
+          {
+            "recipeId": 91,
+            "name": "Μπακαλιάρος φιλέτο με πατάτες στο φούρνο",
+            "mainIngredient": "μπακαλιάρος",
+            "servings": 1,
+            "nutrition": {
+              "calories": 548.43,
+              "carbs": 55.07,
+              "protein": 35.97,
+              "fats": 21.99
+            }
+          }
+        ]
+      },
+      "dailyTotals": {
+        "calories": 2278.5,
+        "carbs": 245.95,
+        "protein": 145.78,
+        "fats": 79.69,
+        "calorieDeviation": 78.5
+      }
+    },
+    {
+      "day": "SATURDAY",
+      "mealTypes": {
+        "breakfast": [
+          {
+            "recipeId": 273,
+            "name": "Πορτοκαλόπιτα",
+            "mainIngredient": "πορτοκαλόπιτα",
+            "servings": 1,
+            "nutrition": {
+              "calories": 439.69,
+              "carbs": 66.18,
+              "protein": 4.38,
+              "fats": 18.97
+            }
+          }
+        ],
+        "midMorningSnack": [
+          {
+            "recipeId": 248,
+            "name": "Τυρόπιτα χωρίς φύλλο",
+            "mainIngredient": "τυρόπιτα",
+            "servings": 1,
+            "nutrition": {
+              "calories": 193.36,
+              "carbs": 17.94,
+              "protein": 11.59,
+              "fats": 8.16
+            }
+          }
+        ],
+        "lunch": [
+          {
+            "recipeId": 18,
+            "name": "Μακαρόνια με κιμά",
+            "mainIngredient": "μακαρόνια",
+            "servings": 1,
+            "nutrition": {
+              "calories": 558.69,
+              "carbs": 46.8,
+              "protein": 20.49,
+              "fats": 31.93
+            }
+          },
+          {
+            "recipeId": 84,
+            "name": "Κολοκυθοκεφτέδες φούρνου",
+            "mainIngredient": "κολοκυθοκεφτέδες",
+            "servings": 3,
+            "nutrition": {
+              "calories": 284.37,
+              "carbs": 19.61,
+              "protein": 9.3,
+              "fats": 19.78
+            }
+          }
+        ],
+        "afternoonSnack": [
+          {
+            "recipeId": 276,
+            "name": "Brownies",
+            "mainIngredient": "brownies",
+            "servings": 1,
+            "nutrition": {
+              "calories": 243.18,
+              "carbs": 35.74,
+              "protein": 3.81,
+              "fats": 9.39
+            }
+          }
+        ],
+        "dinner": [
+          {
+            "recipeId": 287,
+            "name": "Σκορδαλιά",
+            "mainIngredient": "σκορδαλιά",
+            "servings": 3,
+            "nutrition": {
+              "calories": 467.63,
+              "carbs": 83.38,
+              "protein": 10.3,
+              "fats": 11.54
+            }
+          }
+        ]
+      },
+      "dailyTotals": {
+        "calories": 2186.92,
+        "carbs": 269.66,
+        "protein": 59.87,
+        "fats": 99.77,
+        "calorieDeviation": 13.08
+      }
+    },
+    {
+      "day": "SUNDAY",
+      "mealTypes": {
+        "breakfast": [
+          {
+            "recipeId": 256,
+            "name": "Πατάτες φούρνου σαν τηγανητές",
+            "mainIngredient": "πατάτες",
+            "servings": 2,
+            "nutrition": {
+              "calories": 472.96,
+              "carbs": 72.12,
+              "protein": 8.16,
+              "fats": 18.68
+            }
+          }
+        ],
+        "midMorningSnack": [
+          {
+            "recipeId": 133,
+            "name": "Κρέμα καραμελέ",
+            "mainIngredient": "κρέμα",
+            "servings": 1,
+            "nutrition": {
+              "calories": 201.77,
+              "carbs": 39.83,
+              "protein": 8.87,
+              "fats": 0.77
+            }
+          }
+        ],
+        "lunch": [
+          {
+            "recipeId": 606,
+            "name": "Γιουβέτσι με κιμά σόγιας",
+            "mainIngredient": "γιουβέτσι",
+            "servings": 1,
+            "nutrition": {
+              "calories": 724.91,
+              "carbs": 125.53,
+              "protein": 29.11,
+              "fats": 10.09
+            }
+          }
+        ],
+        "afternoonSnack": [
+          {
+            "recipeId": 258,
+            "name": "Μπισκοτόγλυκο",
+            "mainIngredient": "μπισκοτόγλυκο",
+            "servings": 1,
+            "nutrition": {
+              "calories": 183.84,
+              "carbs": 25.99,
+              "protein": 5.3,
+              "fats": 7.1
+            }
+          },
+          {
+            "recipeId": 23,
+            "name": "Μελιτζανοσαλάτα",
+            "mainIngredient": "μελιτζανοσαλάτα",
+            "servings": 1,
+            "nutrition": {
+              "calories": 45.02,
+              "carbs": 8.41,
+              "protein": 1.49,
+              "fats": 1.26
+            }
+          }
+        ],
+        "dinner": [
+          {
+            "recipeId": 144,
+            "name": "Τυρόψωμο ολικής με ελιές και ρίγανη",
+            "mainIngredient": "τυρόψωμο",
+            "servings": 1,
+            "nutrition": {
+              "calories": 388.22,
+              "carbs": 46.17,
+              "protein": 14.89,
+              "fats": 15.54
+            }
+          },
+          {
+            "recipeId": 111,
+            "name": "Νηστίσιμο - vegan σοκολατένιο γλυκό",
+            "mainIngredient": "νηστίσιμο",
+            "servings": 1,
+            "nutrition": {
+              "calories": 231.35,
+              "carbs": 52.35,
+              "protein": 4.8,
+              "fats": 0.75
+            }
+          }
+        ]
+      },
+      "dailyTotals": {
+        "calories": 2248.07,
+        "carbs": 370.39,
+        "protein": 72.61,
+        "fats": 54.18,
+        "calorieDeviation": 48.07
       }
     }
   ],
